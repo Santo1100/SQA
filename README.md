@@ -26,7 +26,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
  ```console 
-  git clone : [((https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report))]
+  git clone : [((https://github.com/Santo1100/SQA/tree/main/API%20Testing))]
 ```
 3. Import the Postman collection:
     - Open Postman.
