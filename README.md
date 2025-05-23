@@ -256,7 +256,10 @@ newman run Batch24.postman_environment.json -e Batch24.postman_collection.json -
 
 ![Api screenshot-1](https://github.com/user-attachments/assets/358a2441-fce0-4388-b60e-533437cac4a2)
 
-![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/634af290-ce66-4311-92f7-3fe206f26116)
-![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/de3c3e0c-0cf8-4b65-aa9a-c927be508a0d)
-![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/b2c748ec-ce72-4fd1-a4a1-3f2bd7ef9db2)
+![api-3](https://github.com/user-attachments/assets/3f66e553-17b5-4587-a123-dcc487fde51d)
+
+![api-2](https://github.com/user-attachments/assets/097fb9b4-499f-4b35-9bb4-3f90087aa4d7)
+
+![api-4](https://github.com/user-attachments/assets/111ce184-541d-4152-82c7-a674ebd0c7a3)
+
 
