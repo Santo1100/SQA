@@ -254,7 +254,8 @@ newman run Batch24.postman_environment.json -e Batch24.postman_collection.json -
 
 ## Newman Report Summary:
 
-![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/c3f79af2-5b03-4ffd-b6b5-0e369192b0f8)
+![Api screenshot-1](https://github.com/user-attachments/assets/358a2441-fce0-4388-b60e-533437cac4a2)
+
 ![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/634af290-ce66-4311-92f7-3fe206f26116)
 ![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/de3c3e0c-0cf8-4b65-aa9a-c927be508a0d)
 ![image](https://github.com/Jasmine3014/Automated-Testing-of-Booking-API-with-Newman-Report/assets/59429546/b2c748ec-ce72-4fd1-a4a1-3f2bd7ef9db2)
