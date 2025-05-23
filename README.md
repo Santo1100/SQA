@@ -245,11 +245,11 @@ pm.environment.set("checkout", checkout)
 ## Run Command:  
 - Run Command for Console: 
 ```console 
-newman run Booking.postman_collection.json -e Booking.postman_environment.json 
+newman run Batch24.postman_environment.json -e Batch24.postman_collection.json
 ```
 - Run Command for Report: 
 ```console 
-newman run Booking.postman_collection.json -e Booking.postman_environment.json -r cli,htmlextra
+newman run Batch24.postman_environment.json -e Batch24.postman_collection.json -r cli,htmlextra
 ```
 
 ## Newman Report Summary:
